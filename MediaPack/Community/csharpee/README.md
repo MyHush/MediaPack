@@ -7,6 +7,8 @@ Keep in mind, this is not to change Hush official logo, but more for other creat
 
 *[Opt]If you are using Inkscape, please use the inkscape SVG format.*
 
+![alt text](https://github.com/csharpee/MediaPack/blob/master/MediaPack/Community/csharpee/2D_CoinHushV2_preview.png)
+
 
 
 
