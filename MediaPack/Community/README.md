@@ -1,4 +1,4 @@
-Hush Community Media
+**Hush Community Media/Graphics**
 
 Each new community media idea can create their own folder and add their ideas and inspiration. The goal of this is inspire and enhance the hush opensource community.
 
